@@ -1,0 +1,2 @@
+# Predicting-Health-Insurance-Prices-A-Forecasting-Model-for-Accurate-Premium-Estimation
+Build ML model predicting health insurance costs based on patient characteristics. Help insurers determine premiums accurately, using demographic and health data. Leverage machine learning algorithms to capture complex relationships. Output: predicted insurance cost for a patient. Enhance pricing and coverage decisions.
